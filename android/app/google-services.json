@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285252177147",
+    "firebase_url": "https://mysecondproject-5cb60.firebaseio.com",
+    "project_id": "mysecondproject-5cb60",
+    "storage_bucket": "mysecondproject-5cb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285252177147:android:615880f2d2a21b8022b45e",
+        "android_client_info": {
+          "package_name": "co.zarabanda.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285252177147-pcu11kfu8m218junl1aqc93p7bp8dje9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzGcWKrK-j5S_vfP_ydn8HYDeTZPDtpcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285252177147-pcu11kfu8m218junl1aqc93p7bp8dje9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
